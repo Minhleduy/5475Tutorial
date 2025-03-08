@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1741321074 source:c:\users\admin\desktop\bai tap\battlecity\battlecity.cpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<ctime>
+	<cstdlib>
+
