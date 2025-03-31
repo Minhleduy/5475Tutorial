@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1743358934 source:c:\users\admin\desktop\bai tap\5475\5475.cpp
+	"5475.h"
+
+1743356141 c:\users\admin\desktop\bai tap\5475\5475.h
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_mixer.h>
+	<ctime>
+	<SDL_image.h>
+	<cstdlib>
+	"enemyTank.h"
+	"Bullet.h"
+	"Wall.h"
+	"Constant.h"
+	"PlayerTank.h"
+
+1743348098 c:\users\admin\desktop\bai tap\5475\enemytank.h
+	<vector>
+	<SDL.h>
+	"PlayerTank.h"
+	"Wall.h"
+	"Bullet.h"
+	"Constant.h"
+
+1743323122 c:\users\admin\desktop\bai tap\5475\playertank.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	"Bullet.h"
+	"Wall.h"
+	"enemyTank.h"
+	"Constant.h"
+
+1743184204 c:\users\admin\desktop\bai tap\5475\bullet.h
+	<SDL.h>
+	<vector>
+	<iostream>
+	"Wall.h"
+	"Constant.h"
+
+1743334049 c:\users\admin\desktop\bai tap\5475\wall.h
+	<SDL.h>
+	<SDL_image.h>
+
+1743322668 c:\users\admin\desktop\bai tap\5475\constant.h
+
+1743356092 source:c:\users\admin\desktop\bai tap\5475\bullet.cpp
+	"Bullet.h"
+	"PlayerTank.h"
+	"enemyTank.h"
+	"5475.h"
+
+1743355991 source:c:\users\admin\desktop\bai tap\5475\playertank.cpp
+	"PlayerTank.h"
+	"enemyTank.h"
+
+1743356092 source:c:\users\admin\desktop\bai tap\5475\wall.cpp
+	"Wall.h"
+	<cstdlib>
+	"Constant.h"
+	<iostream>
+
+1743356142 source:c:\users\admin\desktop\bai tap\5475\enemytank.cpp
+	"enemyTank.h"
+	<iostream>
+
